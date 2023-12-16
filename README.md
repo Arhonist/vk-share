@@ -1,0 +1,1 @@
+Provides a simple function which opens a new tab with VK social media sharing modal
