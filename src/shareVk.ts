@@ -4,7 +4,8 @@ interface shareVkParams {
     image?: string;
 }
 
-const shareVk = ({ title, image, url }: shareVkParams) => {
+// Receives an object with url, title and image passed as strings. Safely opens a new tab with a VK sharing modal window.
+const shareVk = ({ title, image, url }: shareVkParams): void => {
     const params = new URLSearchParams({
         url,
         ...(title ? { title } : {}),

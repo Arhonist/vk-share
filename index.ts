@@ -1,3 +1,3 @@
-import shareVk from './shareVk';
+import shareVk from './src/shareVk';
 
 export { shareVk };
