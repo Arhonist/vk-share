@@ -1,6 +1,6 @@
 {
   "name": "vk-share",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple function which opens a VK share modal in a new tab",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
