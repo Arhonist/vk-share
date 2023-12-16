@@ -1,0 +1,27 @@
+{
+  "name": "vk-share",
+  "version": "1.0.0",
+  "description": "A simple function which opens a VK share modal in a new tab",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arhonist/vk-share.git"
+  },
+  "keywords": [
+    "vk",
+    "vk",
+    "sharing",
+    "vkontakte",
+    "new",
+    "tab"
+  ],
+  "author": "Arhonist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arhonist/vk-share/issues"
+  },
+  "homepage": "https://github.com/Arhonist/vk-share#readme"
+}
